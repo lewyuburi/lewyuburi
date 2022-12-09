@@ -1,3 +1,3 @@
 ### Easy code, easy life ~
 
-![Lew's github stats](https://github-readme-stats.vercel.app/api?username=lewyuburi&theme=dark)
+![Wrapped](https://pbs.twimg.com/card_img/1600159515651051520/zJfnvHAP?format=jpg&name=large)
