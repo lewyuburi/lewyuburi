@@ -1,3 +1,9 @@
 ### Easy code, easy life ~
 
-![Wrapped](https://pbs.twimg.com/card_img/1600159515651051520/zJfnvHAP?format=jpg&name=large)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats-drab-pi.vercel.app/api?username=lewyuburi&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats-drab-pi.vercel.app/api/top-langs/?username=lewyuburi&show_icons=true&theme=transparent&hide_border=true&layout=compact&count_private=true" />
+</a>
